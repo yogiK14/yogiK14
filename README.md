@@ -2,7 +2,7 @@
 -    I have enthusiasm for OpenSource contribution.
 - 👀 I’m interested in Web, Cloud and DevOps
 - 🌱 I’m currently learning DevOps (Ansible, Jenkins).
-- 💞️ I’m looking to collaborate on DevOps.
+- 💞️ I’m looking to collaborate on OpenSource and DevOps.
 - ⚡ Fun fact: 
 
 <!---
